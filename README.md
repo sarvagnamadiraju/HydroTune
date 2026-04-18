@@ -28,21 +28,6 @@ HydroTune uses a Deep Q-Network (DQN) to learn patterns in water system behavior
 - Produces structured and actionable outputs  
 
 
-
-## 🧩 Applications
-
-- Smart water distribution systems  
-- Urban infrastructure monitoring  
-- Utility maintenance planning  
-- Smart city resource management  
-
-
-
-##  Tech Stack
-
-Python · PyTorch · Deep Reinforcement Learning (DQN) · NumPy · Pandas · Scikit-learn  
-
-
 ## 📌 Repair Insights
 
 HydroTune produces meaningful insights to support repair decisions:
@@ -59,6 +44,18 @@ These insights guide repair prioritization by highlighting critical locations, s
 
 ![Output](./results/repair_planning_summary.png)
 
+
+## 🧩 Applications
+
+- Smart water distribution systems  
+- Urban infrastructure monitoring  
+- Utility maintenance planning  
+- Smart city resource management  
+
+
+##  Tech Stack
+
+Python · PyTorch · Deep Reinforcement Learning (DQN) · NumPy · Pandas · Scikit-learn  
 
 
 ## 📂 Project Structure
