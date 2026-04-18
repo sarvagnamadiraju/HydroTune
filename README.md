@@ -44,8 +44,9 @@ Python · PyTorch · Deep Reinforcement Learning (DQN) · NumPy · Pandas · Sci
 
 
 
+## 📌 Repair Insights
 
-HydroTune produces a structured repair plan that enables efficient maintenance decisions:
+HydroTune produces meaningful insights to support repair decisions:
 
 - Identified leak locations  
 - Severity score for each location  
@@ -54,13 +55,15 @@ HydroTune produces a structured repair plan that enables efficient maintenance d
 
 
 
-![Leak Locations](results/leak_map.png)
+## 📍 Identified Leak Locations
+
+![Leak Locations](./results/leak_map.png)
 
 
 
-Top Priorities
+## 📊 Prioritized Repairs
 
-![Output](results/repair_plannig_summary.png)
+![Output](./results/repair_planning_summary.png)
 
 
 
