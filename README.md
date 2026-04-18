@@ -1,4 +1,4 @@
-# HydroTune
+#  HydroTune
 
 > RL-powered leak identification and repair prioritization
 
@@ -8,7 +8,7 @@ By analyzing pressure, flow rate, and spatial location features (latitude and lo
 
 
 
-## How It Works
+## ⚙️ How It Works
 
 HydroTune uses a Deep Q-Network (DQN) to learn patterns in water system behavior and make data-driven decisions.
 
@@ -19,7 +19,7 @@ HydroTune uses a Deep Q-Network (DQN) to learn patterns in water system behavior
 
 
 
-## Key Highlights
+## ✨ Key Highlights
 
 - Reinforcement learning-based leak identification  
 - Severity-driven prioritization of repair actions  
@@ -29,7 +29,7 @@ HydroTune uses a Deep Q-Network (DQN) to learn patterns in water system behavior
 
 
 
-## Applications
+## 🧩 Applications
 
 - Smart water distribution systems  
 - Urban infrastructure monitoring  
@@ -38,13 +38,12 @@ HydroTune uses a Deep Q-Network (DQN) to learn patterns in water system behavior
 
 
 
-## Tech Stack
+##  Tech Stack
 
 Python · PyTorch · Deep Reinforcement Learning (DQN) · NumPy · Pandas · Scikit-learn  
 
 
 
-## Output
 
 HydroTune produces a structured repair plan that enables efficient maintenance decisions:
 
@@ -65,8 +64,7 @@ Top Priorities
 
 
 
-## Project Structure
+## 📂 Project Structure
 
 - `src/` — implementation  
 - `results/` — outputs  
-
