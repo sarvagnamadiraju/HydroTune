@@ -55,10 +55,9 @@ HydroTune produces meaningful insights to support repair decisions:
 
 ![Leak Locations](./results/leak_map.png)
 
-
+These insights guide repair prioritization by highlighting critical locations, severity levels, and scheduling needs.
 
 ![Output](./results/repair_planning_summary.png)
-
 
 
 
