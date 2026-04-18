@@ -43,7 +43,6 @@ HydroTune uses a Deep Q-Network (DQN) to learn patterns in water system behavior
 Python · PyTorch · Deep Reinforcement Learning (DQN) · NumPy · Pandas · Scikit-learn  
 
 
-
 ## 📌 Repair Insights
 
 HydroTune produces meaningful insights to support repair decisions:
@@ -54,12 +53,13 @@ HydroTune produces meaningful insights to support repair decisions:
 - Priority ranking of repairs  
 
 
-
 ![Leak Locations](./results/leak_map.png)
 
 
+📌 Repair Summary
 
 ![Output](./results/repair_planning_summary.png)
+
 
 
 
